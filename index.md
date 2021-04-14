@@ -1,4 +1,13 @@
-## Welcome to Rocket Game Bata!
+# Header 1
+## Header 2
+### Header 3
 
-Here you can download Rocket Game Bata for you're computer (right now only mac!) This will be changed soon!
-### Download Link: https://github.com/JohnnyD2020/Rocket-Game-BATA-/releases/download/v2.0Mac/Rocket.Game.BATA.v2.0.app.zip
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Download Link (FOR MAC)](https://github.com/JohnnyD2020/Rocket-Game-BATA-/releases/download/v2.0Mac/Rocket.Game.BATA.v2.0.app.zip)
